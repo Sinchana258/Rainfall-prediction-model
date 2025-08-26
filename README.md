@@ -45,3 +45,20 @@ The system helps in **agriculture planning, water resource management, and clima
 ✅ Gradient Boosting performed best overall, especially for capturing monsoon trends.  
 
 ---
+
+---
+
+## Installation & Setup 
+
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/your-username/Rainfall-prediction-model.git
+   cd Rainfall-prediction-model
+2. pip install -r requirements.txt
+3. python rainfall_prediction.py
+
+## Contributors
+ 
+- Sinchana T (1BY22CS176)
+- Ranjita (1BY22CS144)
+- Shreya K (1BY22CS166)
